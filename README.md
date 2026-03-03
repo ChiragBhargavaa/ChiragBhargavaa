@@ -1,17 +1,11 @@
 # 💫 About Me:
 
-Hi, I’m Chirag Bhargava
-
-👋 Coding is a tool. Building meaningful products is the goal.
-
-🚀 I design and ship systems from first principles to production. I bring technical depth, clear thinking, and full ownership to everything I build.
-
-🛠️ My foundation is strong. I learned to code without relying on AI, and now I use it intentionally as leverage, not dependence.
-
-📱 I’m a full stack engineer who also builds Android applications with Expo.
-
+Hi, I’m Chirag Bhargava<br>
+👋 Coding is a tool. Building meaningful products is the goal.<br>
+🚀 I design and ship products from first principles to production. I bring technical depth, clear thinking, and full ownership to everything I build.<br>
+🛠️ My foundation is strong. I learned to code without relying on AI, and now I use it as leverage, not dependence.<br>
+📱 I’m a full stack engineer who also builds Android applications with Expo.<br>
 ✨ Let’s build something exceptional.
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chiragbhargava) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/chiragBGV) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chiragbhargava001@gmail.com) 
