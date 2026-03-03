@@ -1,9 +1,15 @@
 # 💫 About Me:
+
 Hi, I’m Chirag Bhargava
+
 👋 Coding is a tool. Building meaningful products is the goal.
+
 🚀 I design and ship systems from first principles to production. I bring technical depth, clear thinking, and full ownership to everything I build.
+
 🛠️ My foundation is strong. I learned to code without relying on AI, and now I use it intentionally as leverage, not dependence.
+
 📱 I’m a full stack engineer who also builds Android applications with Expo.
+
 ✨ Let’s build something exceptional.
 
 
